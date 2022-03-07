@@ -11,11 +11,11 @@ class AirTransport(
     }
 
     override fun toString(): String {
-        return "\n====Air Transport====\n"+
-                "Aircraft Type : $aircraftType \n"+
-                "Aircraft Name: $airlineName \n"+
-                "Weight : $weight \n"+
-                "Capacity :  $capacity \n"+
+        return "\n====Air Transport====\n" +
+                "Aircraft Type : $aircraftType \n" +
+                "Aircraft Name: $airlineName \n" +
+                "Weight : $weight \n" +
+                "Capacity :  $capacity \n" +
                 "Speed : $speed km/h" +
                 "==============="
     }

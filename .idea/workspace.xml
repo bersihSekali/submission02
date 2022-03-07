@@ -28,7 +28,6 @@
       <change afterPath="$PROJECT_DIR$/src/main/kotlin/AirTransport.kt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/kotlin/LandTransport.kt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/kotlin/Transport.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Transportation.kt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../test/.gradle/7.1/fileChanges/last-build.bin" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../test/.gradle/7.1/fileHashes/fileHashes.lock" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../test/.gradle/7.1/gc.properties" afterDir="false" />
